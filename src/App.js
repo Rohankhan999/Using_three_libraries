@@ -7,9 +7,9 @@ import Hero from './Components/Hero/Hero';
 function App() {
   return (
     <div>
-  <Header/>
-  <Hero/>
-  <Ant_Desgin/>
+      <Header />
+      <Hero />
+      <Ant_Desgin />
     </div>
   );
 }
